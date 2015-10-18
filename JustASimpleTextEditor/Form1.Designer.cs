@@ -118,6 +118,7 @@
             this.MainMenuStrip = this.menuMain;
             this.Margin = new System.Windows.Forms.Padding(4);
             this.Name = "frmMain";
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Just A Simple Text Editor v1.0";
             this.menuMain.ResumeLayout(false);
             this.menuMain.PerformLayout();
