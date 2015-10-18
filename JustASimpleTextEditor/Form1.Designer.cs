@@ -35,6 +35,7 @@
             this.aboutToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.rtbMainTextBox = new System.Windows.Forms.RichTextBox();
             this.label1 = new System.Windows.Forms.Label();
+            this.exitToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.menuMain.SuspendLayout();
             this.SuspendLayout();
             // 
@@ -53,7 +54,8 @@
             // fileToolStripMenuItem
             // 
             this.fileToolStripMenuItem.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
-            this.openToolStripMenuItem});
+            this.openToolStripMenuItem,
+            this.exitToolStripMenuItem});
             this.fileToolStripMenuItem.Name = "fileToolStripMenuItem";
             this.fileToolStripMenuItem.Size = new System.Drawing.Size(35, 20);
             this.fileToolStripMenuItem.Text = "&File";
@@ -82,7 +84,7 @@
             // rtbMainTextBox
             // 
             this.rtbMainTextBox.Location = new System.Drawing.Point(0, 33);
-            this.rtbMainTextBox.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.rtbMainTextBox.Margin = new System.Windows.Forms.Padding(4);
             this.rtbMainTextBox.Name = "rtbMainTextBox";
             this.rtbMainTextBox.Size = new System.Drawing.Size(1265, 561);
             this.rtbMainTextBox.TabIndex = 1;
@@ -98,6 +100,12 @@
             this.label1.TabIndex = 2;
             this.label1.Text = "A simple text editor created as a collaborative effort.";
             // 
+            // exitToolStripMenuItem
+            // 
+            this.exitToolStripMenuItem.Name = "exitToolStripMenuItem";
+            this.exitToolStripMenuItem.Size = new System.Drawing.Size(152, 22);
+            this.exitToolStripMenuItem.Text = "E&xit";
+            // 
             // frmMain
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
@@ -108,7 +116,7 @@
             this.Controls.Add(this.menuMain);
             this.Font = new System.Drawing.Font("Lucida Sans Unicode", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.MainMenuStrip = this.menuMain;
-            this.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.Margin = new System.Windows.Forms.Padding(4);
             this.Name = "frmMain";
             this.Text = "Just A Simple Text Editor v1.0";
             this.menuMain.ResumeLayout(false);
@@ -127,6 +135,7 @@
         private System.Windows.Forms.ToolStripMenuItem aboutToolStripMenuItem;
         private System.Windows.Forms.RichTextBox rtbMainTextBox;
         private System.Windows.Forms.Label label1;
+        private System.Windows.Forms.ToolStripMenuItem exitToolStripMenuItem;
     }
 }
 

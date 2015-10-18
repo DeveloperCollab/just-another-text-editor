@@ -1,1 +1,2 @@
 D:\DEV_TRAINING_COLLAB\JustASimpleTextEditor\JustASimpleTextEditor\bin\Debug\JustASimpleTextEditor.exe.config
+D:\DEV_TRAINING_COLLAB\just-another-text-editor\JustASimpleTextEditor\bin\Debug\JustASimpleTextEditor.exe.config
