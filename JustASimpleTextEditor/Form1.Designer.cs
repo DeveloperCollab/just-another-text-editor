@@ -93,7 +93,7 @@
             // aboutToolStripMenuItem
             // 
             this.aboutToolStripMenuItem.Name = "aboutToolStripMenuItem";
-            this.aboutToolStripMenuItem.Size = new System.Drawing.Size(152, 22);
+            this.aboutToolStripMenuItem.Size = new System.Drawing.Size(107, 22);
             this.aboutToolStripMenuItem.Text = "&About";
             // 
             // rtbMainTextBox
@@ -103,7 +103,7 @@
             this.rtbMainTextBox.Name = "rtbMainTextBox";
             this.rtbMainTextBox.Size = new System.Drawing.Size(1265, 561);
             this.rtbMainTextBox.TabIndex = 1;
-            this.rtbMainTextBox.Text = "";
+            this.rtbMainTextBox.Text = "Test";
             // 
             // label1
             // 
