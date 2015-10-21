@@ -8,3 +8,12 @@ D:\DEV_TRAINING_COLLAB\just-another-text-editor\JustASimpleTextEditor\obj\Debug\
 D:\DEV_TRAINING_COLLAB\just-another-text-editor\JustASimpleTextEditor\obj\Debug\JustASimpleTextEditor.csproj.GenerateResource.Cache
 D:\DEV_TRAINING_COLLAB\just-another-text-editor\JustASimpleTextEditor\obj\Debug\JustASimpleTextEditor.exe
 D:\DEV_TRAINING_COLLAB\just-another-text-editor\JustASimpleTextEditor\obj\Debug\JustASimpleTextEditor.pdb
+C:\DEV_TRAINING_COLLAB\just-another-text-editor\JustASimpleTextEditor\bin\Debug\JustASimpleTextEditor.exe.config
+C:\DEV_TRAINING_COLLAB\just-another-text-editor\JustASimpleTextEditor\obj\Debug\JustASimpleTextEditor.exe
+C:\DEV_TRAINING_COLLAB\just-another-text-editor\JustASimpleTextEditor\obj\Debug\JustASimpleTextEditor.pdb
+C:\DEV_TRAINING_COLLAB\just-another-text-editor\JustASimpleTextEditor\bin\Debug\JustASimpleTextEditor.exe
+C:\DEV_TRAINING_COLLAB\just-another-text-editor\JustASimpleTextEditor\bin\Debug\JustASimpleTextEditor.pdb
+C:\DEV_TRAINING_COLLAB\just-another-text-editor\JustASimpleTextEditor\obj\Debug\JustASimpleTextEditor.csprojResolveAssemblyReference.cache
+C:\DEV_TRAINING_COLLAB\just-another-text-editor\JustASimpleTextEditor\obj\Debug\JustASimpleTextEditor.frmMain.resources
+C:\DEV_TRAINING_COLLAB\just-another-text-editor\JustASimpleTextEditor\obj\Debug\JustASimpleTextEditor.Properties.Resources.resources
+C:\DEV_TRAINING_COLLAB\just-another-text-editor\JustASimpleTextEditor\obj\Debug\JustASimpleTextEditor.csproj.GenerateResource.Cache
